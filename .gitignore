@@ -1,0 +1,8 @@
+*.iml
+/allure-results/
+/build/
+/target/
+/.idea/
+/.allure/
+debug.log
+SelenideFramework.iml
