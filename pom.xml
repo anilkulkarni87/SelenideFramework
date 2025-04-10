@@ -26,7 +26,7 @@
         <spotbugs.version>3.1.12</spotbugs.version>
         <spotbugs.maven.plugin.version>3.1.12.2</spotbugs.maven.plugin.version>
         <faker.version>1.0.1</faker.version>
-        <apache.poi.version>4.1.2</apache.poi.version>
+        <apache.poi.version>5.4.0</apache.poi.version>
     </properties>
 
     <dependencies>
